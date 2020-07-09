@@ -1,2 +1,2 @@
 # git-exercises-02
-Hello Planet!
+Hello Planet Fitness!
